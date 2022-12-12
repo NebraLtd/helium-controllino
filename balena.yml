@@ -1,7 +1,7 @@
 name: nebra-helium-controllino
 type: sw.application
 description: >-
-  Manage your Controllino Helium Miner remotely using Nebra and balenaCloud.
+  Manage your Controllino or Conelcom Helium Miner remotely using Nebra and balenaCloud.
 post-provisioning: >-
   ## Usage instructions
   
